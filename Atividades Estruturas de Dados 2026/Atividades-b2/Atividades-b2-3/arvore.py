@@ -1,7 +1,7 @@
 '''
  ---------------------------------------------------------------------------
                 FATEC São Caetano do Sul
-		  Atividade B2 - 2  
+		  Atividade B2 - 3  
  Autor: 1681432612010 - Gabriel Lasinskais
  Objetivo: Árvore Binária
  Data: 05/05/2026
